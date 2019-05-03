@@ -1,0 +1,23 @@
+	body {background-color: #00004d;}
+	.main
+		{background-color: #e6e6ff;
+		padding: 6px 6px 6px 6px;
+  		border: 7px solid #0000b3;
+  		border-radius: 25px;}
+	.heading 
+		{color: #ffffff;
+		text-align: center;}
+	.link
+		{color: #000000;
+		text-align: center;}
+	.paragraph
+		{padding: 0px 60px 60px 60px;}
+	#logout
+		{padding: 2px 6px 2px 6px;
+  		border-top: 1px solid #CCCCCC;
+  		border-right: 1px solid #333333;
+  		border-bottom: 1px solid #333333;
+  		border-left: 1px solid #CCCCCC;
+  		text-decoration: none;
+  		text-align: right;
+  		background-color: #99ccff;}
