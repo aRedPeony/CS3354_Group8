@@ -33,6 +33,9 @@ public class comments{
 		java.util.Date date = new java.util.Date();
 		timestamp=date.getTime();
 	}
+	public void setTime(long time) {
+		timestamp=time;
+	}
 	public void setComment(String comment) {
 		this.comment=comment;
 	}

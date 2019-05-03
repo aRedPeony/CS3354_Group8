@@ -29,10 +29,11 @@
 	<h1 class="heading">Comments:</h1>
 	<div class=main>
 	
-	<br><br><form name="seeComments" action="commentsO" method="post">
+	<br><br><form name="seeComments" action="ReadComments" method="post">
 	<input type="submit" name="submit" value="See Comments on Brief History">
-	<div class=link><a href=readComents.html>Comments</a></div>
 	</form>
+	<br>
+	${tMessage}<br>
 	
 	<br>
 	${cMessage}<br>

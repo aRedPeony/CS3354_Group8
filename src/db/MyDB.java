@@ -11,7 +11,7 @@ public interface MyDB {
 
 	String USER="Peony";
 	String PASS="itSaFLOWER77";
-	String CONN_URL="jdbc:mysql://127.0.0.1:3306/coursedatabase";
+	String CONN_URL="jdbc:mysql://127.0.0.1:3306/coursedatabase?autoReconect=true&useSSL=false";
 	
 	
 }
